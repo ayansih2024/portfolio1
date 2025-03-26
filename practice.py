@@ -184,7 +184,7 @@ st.markdown(
         <h2>Contact</h2>
         <p>
             Feel free to reach out to me for collaborations or inquiries! You can contact me at:
-            <a href="ayangantayat095@gmail.com" style="color: #58a6ff; text-decoration: none;">your.email@example.com</a>
+            <a href="ayangantayat095@gmail.com" style="color: #58a6ff; text-decoration: none;">ayangantayat095@gmail.com</a>
         </p>
     </div>
     """,
