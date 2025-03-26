@@ -70,6 +70,7 @@ st.markdown(
     """
     <div class="header">
         <h1>My Portfolio</h1>
+        <h2> Ayan Gantayat</h2>
         <p>Welcome to my portfolio! Explore my projects, skills, and achievements below.</p>
     </div>
     """,
@@ -143,8 +144,8 @@ st.markdown(
     <div class="section">
         <h2>Skills</h2>
         <ul>
-            <li>Programming Languages: Python, JavaScript, HTML, CSS</li>
-            <li>Frameworks: Streamlit, React, Flask</li>
+            <li>Programming Languages: Python, HTML, CSS</li>
+            <li>Frameworks: Streamlit, Flask</li>
             <li>Tools: Git, Docker, Figma</li>
             <li>Other: Machine Learning, AI, Web Development</li>
         </ul>
